@@ -1,0 +1,84 @@
+{
+    "status": true,
+    "msg": "Image received and processing in background",
+    "data": {
+      "uploaded_image": "ee924418-1e65-4614-9e68-94b5fc8f262b.png",
+      "data": {
+        "menus": [
+          {
+            "title": null,
+            "currency": null,
+            "sections": [
+              {
+                "title": null,
+                "items": [
+                  {
+                    "name": "Burger",
+                    "description": null,
+                    "price": null,
+                    "ingredients": [
+                      "bun",
+                      "lettuce",
+                      "cheese",
+                      "tomato"
+                    ],
+                    "variants": null,
+                    "modifiers": null,
+                    "images": [
+                      "burger.jpg"
+                    ]
+                  },
+                  {
+                    "name": "French Fries",
+                    "description": null,
+                    "price": null,
+                    "ingredients": [
+                      "potatoes"
+                    ],
+                    "variants": null,
+                    "modifiers": null,
+                    "images": [
+                      "fries.jpg"
+                    ]
+                  },
+                  {
+                    "name": "Pizza",
+                    "description": null,
+                    "price": null,
+                    "ingredients": [
+                      "dough",
+                      "tomato sauce",
+                      "cheese",
+                      "mushrooms",
+                      "pepperoni"
+                    ],
+                    "variants": null,
+                    "modifiers": null,
+                    "images": [
+                      "pizza.jpg"
+                    ]
+                  },
+                  {
+                    "name": "Hot Dog",
+                    "description": null,
+                    "price": null,
+                    "ingredients": [
+                      "bun",
+                      "sausage",
+                      "lettuce",
+                      "tomato"
+                    ],
+                    "variants": null,
+                    "modifiers": null,
+                    "images": [
+                      "hotdog.jpg"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,9 @@
+digitalmenu-ai-backend.projectco.space
+
+nano /etc/nginx/sites-available/resmenu
+
+sudo nano /etc/systemd/system/resmenu.service
+
+sudo systemctl restart resmenu.service
+
+sudo journalctl -u resmenu.service -f

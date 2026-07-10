@@ -1,0 +1,42 @@
+[
+  {
+    "name": "McDonald’s",
+    "website": "https://www.mcdonalds.com"  
+  },
+  {
+    "name": "Starbucks",
+    "website": "https://www.starbucks.com"  
+  },
+  {
+    "name": "Subway",
+    "website": "https://www.subway.com"  
+  },
+  {
+    "name": "KFC",
+    "website": "https://www.kfcpakistan.com/"  
+  },
+  {
+    "name": "Domino’s",
+    "website": "https://www.dominos.com.pk/"  
+  },
+  {
+    "name": "Pizza Hut",
+    "website": "https://www.pizzahutpakistan.com/en"  
+  },
+  {
+    "name": "Burger King",
+    "website": "https://www.bk.com"  
+  },
+  {
+    "name": "Taco Bell",
+    "website": "https://www.yum.com"  
+  },
+  {
+    "name": "Chick-fil-A",
+    "website": "https://www.chick-fil-a.com"  
+  },
+  {
+    "name": "Wendy’s",
+    "website": "https://www.wendys.com"  
+  }
+]
